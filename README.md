@@ -1,5 +1,5 @@
-# Better Vehicle Crafting
-Uncraft minecart with blocks and chest boats. By ThijquintNL. Smelt for minecarts/boats, craft for blocks/chests (note: hopper_minecarts give 10 iron ingots). Also adds easier recipes with 5 planks/iron ingots and a block or chest.
+# Iron Nuggets Craft Chainmail
+Craft chainmail armor with iron nuggets! useful for early game.
 
 ### notice
 - If you want to support small creators like me, you can turn off ad blocker on Modrinth.

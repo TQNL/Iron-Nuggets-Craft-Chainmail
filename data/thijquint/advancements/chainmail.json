@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:chainmail_chestplate"
+      "id": "minecraft:chainmail_chestplate"
     },
     "title": "Better Vehicle Crafting",
     "description": "Craft chainmail armor with iron nuggets! useful for early game.",
