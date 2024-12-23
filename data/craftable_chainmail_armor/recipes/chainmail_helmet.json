@@ -1,15 +1,15 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    "X X"
-  ],
   "key": {
     "X": {
       "item": "minecraft:iron_nugget"
     }
   },
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
   "result": {
-    "id": "minecraft:chainmail_helmet"
+    "item": "minecraft:chainmail_helmet"
   }
 }
