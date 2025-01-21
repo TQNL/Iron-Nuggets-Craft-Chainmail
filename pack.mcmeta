@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 41,
+    "pack_format": 57,
     "description": "Craft chainmail armor with iron nuggets! useful for early game. By ThijquintNL.",
     "supported_formats": {
-      "min_inclusive": 41,
+      "min_inclusive": 57,
       "max_inclusive": 61
     }
   }
